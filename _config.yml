@@ -6,10 +6,15 @@ minima_reboot:
   date_format: "%b %-d, %Y"
   date_format_short: "%b %-d"
 
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-redirect-from
+
 header_pages:
 - about.md
 - posts.md
-- github.md
 
 footer_icons:
   - username: Privacy
@@ -17,3 +22,5 @@ footer_icons:
     icon: icon-github.svg
 
 markdown: kramdown
+
+paginate: 5

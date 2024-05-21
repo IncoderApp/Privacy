@@ -4,6 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is Minima Reboot, a Bootstrap-based rewrite of [Minima](https://github.com/jekyll/minima), the base Jekyll theme. It is designed to be lightweight, easy-to-use, and responsive.
+This is **[IncoderApp](https://incoder.app)** site application privacy archives.
 
-You can find Minima Reboot's source code at: [minima-reboot](https://github.com/aterenin/minima-reboot).
+## Thanks
+
+- Site Jekyll Theme: [minima-reboot](https://github.com/aterenin/minima-reboot)
+- Privacy Guides Reference:
+  - [app-privacy-policy-generator](https://github.com/nisrulz/app-privacy-policy-generator)
+  - [privacy-guides](https://github.com/sunknudsen/privacy-guides)
+  - [privacyguides.orgs](https://github.com/privacyguides/privacyguides.org)
+  - [macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide)
