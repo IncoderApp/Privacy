@@ -1,0 +1,12 @@
+remote_theme: aterenin/minima-reboot
+title: App Privacy
+description: App privacy archives!
+
+minima_reboot:
+  date_format: "%b %-d, %Y"
+  date_format_short: "%b %-d"
+
+footer_icons:
+  - username: IncoderApp/Privacy/
+    url: https://github.com/IncoderApp/Privacy/
+    icon: icon-github.svg
