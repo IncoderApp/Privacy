@@ -1,6 +1,7 @@
 remote_theme: aterenin/minima-reboot
 title: App Privacy
 author: IncoderApp
+description: ""
 
 minima_reboot:
   date_format: "%b %-d, %Y"
