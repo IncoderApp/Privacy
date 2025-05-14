@@ -1,7 +1,17 @@
 ---
-layout: post
 title: "LawRefBook Privacy Policy"
+date: 2024-05-21 12:00:11 +/-TTTT
+categories: [LawRefBook]
+tags: [LawRefBook]
+# description: LawRefBook Privacy
+author: jerry
+# permalink: lawrefbook.html
 ---
+
+> This application is a third-party tool independently developed and operated by Jerry Xu. It has no connection with any government agency and has not been officially authorized or approved by any government agency. The information, services or functions provided in the application are only based on publicly available data or content submitted by users. They are for reference only and do not constitute any official guidance or commitment.
+>
+> Data source: [国家法律法规数据库](https://flk.npc.gov.cn), [最高人民法院](https://www.court.gov.cn)
+{: .prompt-warning }
 
 The LawRefBook app as an Open Source app. This APP is provided at no cost and is intended for use as is.
 
