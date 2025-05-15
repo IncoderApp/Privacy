@@ -8,9 +8,7 @@ author: jerry
 # permalink: lawrefbook.html
 ---
 
-> This application is a third-party tool independently developed and operated by Jerry Xu. It has no connection with any government agency and has not been officially authorized or approved by any government agency. The information, services or functions provided in the application are only based on publicly available data or content submitted by users. They are for reference only and do not constitute any official guidance or commitment.
->
-> Data source: [国家法律法规数据库](https://flk.npc.gov.cn), [最高人民法院](https://www.court.gov.cn)
+> This App is an offline legal knowledge App, which allows users to read and view legal content anytime and anywhere, and can also share or save legal knowledge. The content of the App data comes from the National Laws and Regulations Database, <https://flk.npc.gov.cn>. The database of national laws and regulations currently provides the current and effective Constitution (including amendments), laws, administrative regulations, supervision regulations, local regulations, autonomous regulations and single-line regulations, regulations of the People's Republic of China, regulations of special economic zones, and electronic texts of judicial interpretation. The database of national laws and regulations is maintained by the General Office of the Standing Committee of the National People's Congress. This App does not represent government agencies. This App is not a government-provided service. This App is not provided by government agencies. If it is different from the information published by the competent authorities of each law, please refer to the information published by the competent authorities of each law.
 {: .prompt-warning }
 
 The LawRefBook app as an Open Source app. This APP is provided at no cost and is intended for use as is.
